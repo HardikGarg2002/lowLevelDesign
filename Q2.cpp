@@ -29,7 +29,7 @@ class SolarInverterWithBattery: SolarInverter{
         cout<<"can be charged with battery";
     }
 
-};
+}
 class SolarInverterWithoutBattery{
    
     void isGridOn(){
